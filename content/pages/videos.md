@@ -4,7 +4,6 @@ sections:
   - title: Videos
     features:
       - title: HAROS
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
