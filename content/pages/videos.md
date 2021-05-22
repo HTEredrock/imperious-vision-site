@@ -4,8 +4,6 @@ sections:
   - title: Videos
     features:
       - title: HAROS
-        content: |
-          *
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
