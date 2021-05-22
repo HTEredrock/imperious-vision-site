@@ -50,7 +50,7 @@ sections:
         actions_align: center
         actions:
           - label: LISTEN NOW
-            url: '#'
+            url: 'https://music.apple.com/za/artist/imperious-vision/1525270645'
             style: link
             has_icon: false
             icon: arrow-left
