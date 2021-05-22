@@ -47,6 +47,7 @@ sections:
       - image: images/ItunesLogo.png
         image_alt: Gatsby logo
         image_align: center
+        actions_align: center
       - image: images/BandCampLogo.png
         image_alt: Sanity logo
         image_align: center
