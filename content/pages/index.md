@@ -108,7 +108,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit DIY Theme
+      value: Imperious Vision
     - name: 'twitter:description'
       value: Official Site
     - name: 'twitter:image'
