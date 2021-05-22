@@ -2,7 +2,6 @@
 title: Videos
 sections:
   - title: Videos
-    subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
     align: center
