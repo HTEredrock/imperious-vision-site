@@ -40,6 +40,7 @@ sections:
     grid_cols: four
     grid_gap_horiz: small
     grid_gap_vert: medium
+    background_color: secondary
   - type: cta_section
     title: Check us out on the Metal Archives
     actions:
