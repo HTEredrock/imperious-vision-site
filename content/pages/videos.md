@@ -13,7 +13,7 @@ sections:
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
         media_position: bottom
-        media_width: fifty
+        media_width: sixty
         align: left
         type: feature
     feature_padding_vert: medium
