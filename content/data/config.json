@@ -8,7 +8,7 @@
     "base_font": "serif",
     "header": {
         "title": "DIY",
-        "logo": "images/classic/logo.svg",
+        "logo": "images/remarkable-petunia.png",
         "logo_alt": "DIY logo",
         "has_primary_nav": false,
         "primary_nav_links": [
