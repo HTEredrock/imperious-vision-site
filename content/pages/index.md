@@ -49,7 +49,7 @@ sections:
         image_align: center
         actions_align: center
         actions:
-          - label: LISTEN
+          - label: LISTEN NOW
             url: '#'
             style: link
             has_icon: false
