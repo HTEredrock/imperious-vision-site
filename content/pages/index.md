@@ -31,6 +31,7 @@ sections:
       - image: images/logo-5.svg
         image_alt: DatoCMS logo
         image_align: center
+        content_align: center
       - image_alt: Next.js logo
         image_align: center
       - image_alt: Gridsome logo
