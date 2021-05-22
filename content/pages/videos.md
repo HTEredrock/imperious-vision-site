@@ -45,8 +45,11 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          <iframe width="1110" height="624"
+          src="https://www.youtube.com/embed/5bZ4FN2ZEY0" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
         media_position: top
         media_width: fifty
         align: left
