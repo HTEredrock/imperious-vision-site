@@ -20,7 +20,7 @@ sections:
         image_alt: Spotify logo
         image_align: center
         actions:
-          - label: lorem-ipsum
+          - label: LISTEN NOW
             url: '#'
             style: link
             has_icon: false
