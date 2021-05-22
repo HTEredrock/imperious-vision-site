@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: '"EMPIRE OF ILLUSION" AVAILABLE NOW ON ALL MAJOR STREAMING PLATFORMS'
+    title: '"EMPIRE OF ILLUSION" AVAILABLE NOW'
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
