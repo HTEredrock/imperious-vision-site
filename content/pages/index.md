@@ -43,6 +43,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+        actions_align: center
       - image: images/ItunesLogo.png
         image_alt: Gatsby logo
         image_align: center
