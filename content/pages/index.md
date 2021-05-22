@@ -48,6 +48,16 @@ sections:
         image_alt: Gatsby logo
         image_align: center
         actions_align: center
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - image: images/BandCampLogo.png
         image_alt: Sanity logo
         image_align: center
