@@ -5,7 +5,7 @@
     "style": "bold",
     "palette": "gray",
     "mode": "dark",
-    "base_font": "serif",
+    "base_font": "sans-serif",
     "header": {
         "logo": "images/IV_Logo_2-removebg-preview.png",
         "logo_alt": "DIY logo",
