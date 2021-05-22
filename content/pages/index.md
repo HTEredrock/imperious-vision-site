@@ -19,6 +19,16 @@ sections:
       - image: images/smart-cabbage.png
         image_alt: Spotify logo
         image_align: center
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - image: images/YouTubeLogo.png
         image_alt: Netlify logo
         image_align: center
