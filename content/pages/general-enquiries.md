@@ -7,6 +7,16 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
+    content: |
+      ## EMAIL:
+
+      IMPERIOUSVISIONBAND@GMAIL.COM
+
+      ## PHONE:
+
+      #### 0603322815
+
+      #### 0725995700
   - type: form_section
     content: >-
       ### Billing
