@@ -12,7 +12,7 @@ sections:
         url: /features
         style: secondary
     image: images/AlbumSnip.jpg
-    image_alt: Hero section placeholder image
+    image_alt: Empire of Illusion album cover
     media_position: left
     media_width: fifty
     align: left
