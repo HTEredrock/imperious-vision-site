@@ -39,7 +39,7 @@
             },
             {
                 "label": "CONTACT US",
-                "url": "#",
+                "url": "/contact",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
