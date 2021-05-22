@@ -72,9 +72,6 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - image_alt: DatoCMS logo
-        image_align: center
-        content_align: center
       - image_alt: Next.js logo
         image_align: center
       - image_alt: Gridsome logo
