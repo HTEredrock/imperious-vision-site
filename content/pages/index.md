@@ -22,7 +22,7 @@ sections:
       - image: images/YouTubeLogo.png
         image_alt: Netlify logo
         image_align: center
-      - image: images/logo-3.svg
+      - image: images/ItunesLogo.png
         image_alt: Gatsby logo
         image_align: center
       - image: images/logo-4.svg
