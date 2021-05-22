@@ -110,7 +110,8 @@
                 "url": "/privacy-policy",
                 "style": "link",
                 "has_icon": true,
-                "icon": "instagram"
+                "icon": "instagram",
+                "new_window": true
             }
         ],
         "has_social": true,
