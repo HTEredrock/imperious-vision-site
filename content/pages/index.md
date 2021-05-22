@@ -64,7 +64,7 @@ sections:
         actions_align: center
         actions:
           - label: LISTEN NOW
-            url: '#'
+            url: 'https://imperiousvision.bandcamp.com/releases'
             style: link
             has_icon: false
             icon: arrow-left
