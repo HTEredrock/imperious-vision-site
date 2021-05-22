@@ -4,10 +4,7 @@ sections:
   - type: hero_section
     title: '"EMPIRE OF ILLUSION" AVAILABLE NOW'
     subtitle: ON ALL MAJOR STREAMING PLATFORMS
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
+    actions: []
     image: images/AlbumSnip.jpg
     image_alt: Empire of Illusion album cover
     media_position: left
