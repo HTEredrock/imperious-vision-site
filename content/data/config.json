@@ -101,7 +101,8 @@
                 "label": "Facebook",
                 "url": "https://www.facebook.com/imperiousvisionband/",
                 "style": "link",
-                "icon": "facebook"
+                "icon": "facebook",
+                "new_window": true
             },
             {
                 "label": "Instagram",
