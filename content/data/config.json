@@ -100,7 +100,8 @@
             {
                 "label": "Facebook",
                 "url": "https://www.facebook.com/imperiousvisionband/",
-                "style": "link"
+                "style": "link",
+                "icon": "facebook"
             },
             {
                 "label": "Privacy Policy",
