@@ -5,9 +5,6 @@ sections:
     title: '"EMPIRE OF ILLUSION" AVAILABLE NOW'
     subtitle: ON ALL MAJOR STREAMING PLATFORMS
     actions:
-      - label: Try Free
-        url: /pricing
-        style: primary
       - label: Learn More
         url: /features
         style: secondary
