@@ -3,7 +3,6 @@ title: Contact Us
 sections:
   - type: hero_section
     title: Contact Us
-    subtitle: The optional subtitle
     align: center
     padding_top: medium
     padding_bottom: medium
