@@ -61,6 +61,7 @@ sections:
       - image: images/BandCampLogo.png
         image_alt: Sanity logo
         image_align: center
+        actions_align: center
       - image_alt: DatoCMS logo
         image_align: center
         content_align: center
