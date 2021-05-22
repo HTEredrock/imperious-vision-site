@@ -36,7 +36,7 @@ sections:
         actions:
           - label: LISTEN NOW
             url: 'https://www.youtube.com/channel/UC1qCCCIOZXz8DwuZl0PThsQ'
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
