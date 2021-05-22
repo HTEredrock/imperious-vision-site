@@ -16,7 +16,7 @@ sections:
         media_width: sixty
         align: center
         type: feature
-      - title: lorem-ipsum
+      - title: BEFORE THE DAWN
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
