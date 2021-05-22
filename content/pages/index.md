@@ -14,7 +14,6 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    subtitle: Grid Section Example
     align: center
     grid_items:
       - image: images/logo-1.svg
