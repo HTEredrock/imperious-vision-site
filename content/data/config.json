@@ -107,7 +107,8 @@
                 "label": "Instagram",
                 "url": "/privacy-policy",
                 "style": "link",
-                "has_icon": true
+                "has_icon": true,
+                "icon": "instagram"
             }
         ],
         "has_social": true,
