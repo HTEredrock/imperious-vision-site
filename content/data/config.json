@@ -90,7 +90,7 @@
                 "label": "YouTube",
                 "url": "https://www.youtube.com/channel/UC1qCCCIOZXz8DwuZl0PThsQ",
                 "style": "link",
-                "has_icon": false,
+                "has_icon": true,
                 "icon": "arrow-left",
                 "icon_position": "right",
                 "new_window": false,
