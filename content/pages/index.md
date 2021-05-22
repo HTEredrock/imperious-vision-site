@@ -28,8 +28,7 @@ sections:
       - image: images/BandCampLogo.png
         image_alt: Sanity logo
         image_align: center
-      - image: images/logo-5.svg
-        image_alt: DatoCMS logo
+      - image_alt: DatoCMS logo
         image_align: center
         content_align: center
       - image_alt: Next.js logo
