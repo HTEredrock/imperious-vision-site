@@ -25,7 +25,7 @@ sections:
       - image: images/ItunesLogo.png
         image_alt: Gatsby logo
         image_align: center
-      - image: images/logo-4.svg
+      - image: images/BandCampLogo.png
         image_alt: Sanity logo
         image_align: center
       - image: images/logo-5.svg
