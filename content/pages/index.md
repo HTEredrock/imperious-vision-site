@@ -5,8 +5,7 @@ sections:
     title: '"EMPIRE OF ILLUSION" AVAILABLE NOW'
     subtitle: ON ALL MAJOR STREAMING PLATFORMS
     actions:
-      - label: lorem-ipsum
-        url: '#'
+      - url: '#'
         style: link
         has_icon: false
         icon: arrow-left
