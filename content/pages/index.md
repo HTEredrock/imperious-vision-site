@@ -21,7 +21,7 @@ sections:
         image_align: center
         actions:
           - label: LISTEN NOW
-            url: '#'
+            url: 'https://open.spotify.com/artist/0FaZjQm6DkmU3XzfnFkMxV'
             style: link
             has_icon: false
             icon: arrow-left
