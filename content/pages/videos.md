@@ -17,7 +17,6 @@ sections:
         align: center
         type: feature
       - title: BEFORE THE DAWN
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
