@@ -28,7 +28,7 @@
             },
             {
                 "label": "VIDEOS",
-                "url": "/",
+                "url": "/videos",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
