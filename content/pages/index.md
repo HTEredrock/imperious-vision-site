@@ -90,7 +90,7 @@ sections:
     background_color: primary
 seo:
   title: Imperious Vision
-  description: The preview of the DIY theme
+  description: Official Site
   extra:
     - name: 'og:type'
       value: website
