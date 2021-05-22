@@ -29,7 +29,7 @@ sections:
         media_width: fifty
         align: center
         type: feature
-      - title: lorem-ipsum
+      - title: EMPIRE OF ILLUSION ALBUM STREAM
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
