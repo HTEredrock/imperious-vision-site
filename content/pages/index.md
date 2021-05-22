@@ -29,6 +29,7 @@ sections:
             new_window: true
             no_follow: false
             type: action
+        actions_align: center
       - image: images/YouTubeLogo.png
         image_alt: Netlify logo
         image_align: center
