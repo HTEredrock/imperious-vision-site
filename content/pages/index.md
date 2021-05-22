@@ -14,7 +14,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    align: center
+    align: left
     grid_items:
       - image: images/smart-cabbage.png
         image_alt: Spotify logo
