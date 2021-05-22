@@ -62,6 +62,16 @@ sections:
         image_alt: Sanity logo
         image_align: center
         actions_align: center
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - image_alt: DatoCMS logo
         image_align: center
         content_align: center
