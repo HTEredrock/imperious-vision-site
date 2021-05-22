@@ -19,7 +19,7 @@ sections:
       - image: images/smart-cabbage.png
         image_alt: Spotify logo
         image_align: center
-      - image: images/logo-2.svg
+      - image: images/YouTubeLogo.png
         image_alt: Netlify logo
         image_align: center
       - image: images/logo-3.svg
