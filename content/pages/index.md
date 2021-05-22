@@ -99,7 +99,7 @@ seo:
       value: Imperious Vision
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: Official Site
       keyName: property
     - name: 'og:image'
       value: images/diy-preview.png
@@ -110,7 +110,7 @@ seo:
     - name: 'twitter:title'
       value: Stackbit DIY Theme
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: Official Site
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
