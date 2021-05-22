@@ -49,7 +49,7 @@ sections:
         image_align: center
         actions_align: center
         actions:
-          - label: lorem-ipsum
+          - label: LISTEN
             url: '#'
             style: link
             has_icon: false
