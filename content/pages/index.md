@@ -22,7 +22,7 @@ sections:
         actions:
           - label: LISTEN NOW
             url: 'https://open.spotify.com/artist/0FaZjQm6DkmU3XzfnFkMxV'
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
