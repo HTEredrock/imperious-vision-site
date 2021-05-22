@@ -19,6 +19,7 @@ sections:
       - image: images/smart-cabbage.png
         image_alt: Contentful logo
         image_align: center
+        title: Spotify
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
